@@ -1,7 +1,4 @@
-﻿namespace TestData
-{
-    public class Class1
-    {
-
+﻿namespace TestData{
+    public class Class2{
     }
 }
